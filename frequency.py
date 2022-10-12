@@ -64,3 +64,4 @@ for i in result:
     for i in range(result[i]):
         print('*',end='')
     print()
+print("20220872")
